@@ -2,8 +2,7 @@
 Final
 
 
-The final project it's gonna use the same data from the second project, the differencce is instead of looking at eveything I'm gonna look at the most recent games, basically when being a gamer became a viable option, work with the categorical data that I didn't use in project 2, and clean up the data.
-What I wanna see it's if the genra of the game metter and what effects the popularity of the game, and the money in it. Just have somewhat of a basic understanding 
-on where the most money is in the e-sport industry.
-
-The data it's in the new.txt file
+For the final project I will be analizing the data from "The Estonia Disaster". The estonia disaster it's similar to the Titanic but with different survivors.
+I have become familria with everything that happend before the incident therefore I know what the survivor charts should look like based on that information.
+The data that I have aviable it's only the names of the people and the age and sex. I'll be looking at every single person but I will eleminate the names only, 
+where as the nationality I do believe it might matter too.
